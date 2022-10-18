@@ -34,7 +34,7 @@ h2 {
   box-shadow: 0.5em 0 0 #00f7ff;
   width: 22ch;
   overflow: hidden;
-  color: #fff;
+  color: #00f7ff;
   white-space: nowrap;
   animation: caret 0.5s step-end infinite alternate, type 5s steps(28, end);
 }
